@@ -1,9 +1,10 @@
 # Privacy Policy for WeTrip – Share & Split Costs
 
+[Privacy Policy](privacy-policy.md) | [Terms of Service](terms-of-service.md)
+
 **Last updated:** October 25, 2025  
 **Developer:** Phuong Nguyen Hoang  
-**Address:** Da Nang City, Vietnam  
-**App Rating:** 4+ (with regional exceptions)
+**Address:** Da Nang City, Vietnam
 
 ---
 
@@ -29,7 +30,7 @@ We collect only the following data types when necessary:
 ### a. App Usage Data (Non-Personal)
 - Anonymous usage information (e.g., app version, device type, operating system)
 - Crash logs or performance metrics, if you enable them via your device settings
-- **Temporary IP addresses** may be collected during API calls to RevenueCat for purchase verification (not stored permanently)
+- **Temporary IP address** may be processed during communication with RevenueCat for subscription verification. This information is not stored or used to identify users.
 
 ### b. Purchase Information
 If you purchase a subscription or upgrade, WeTrip collects:
@@ -39,7 +40,7 @@ If you purchase a subscription or upgrade, WeTrip collects:
 This data is handled securely through **Apple**, **Google**, and **RevenueCat**, and does not include personal identifiers such as your name or email.
 
 ### c. User-Generated Content
-User-input data (e.g., trip expenses, friend lists) is processed locally on your device and not collected by us. All trip data remains on your device unless you choose to share it with friends through the app's built-in sharing features.
+User-input data (e.g., trip expenses, friend lists) is processed locally on your device and not collected by us. All trip data remains on your device.
 
 ### Data Categories We Collect (for App Store/Play Store compliance)
 
@@ -62,11 +63,11 @@ We process your information solely to:
 - Improve performance and user experience  
 - Comply with legal and security requirements  
 
-### Legal Basis for Processing (GDPR Article 6)
+### Legal Basis for Processing
+We process your information based on:
 - **Contract performance**: To provide subscription services and verify entitlements
 - **Legitimate interests**: To prevent fraud, ensure security, and improve our services
 - **Legal obligation**: To comply with applicable laws and regulations
-- **Consent**: For any processing not covered by the above bases
 
 We do **not** sell or share your data for advertising or marketing.
 
@@ -142,7 +143,7 @@ Depending on your region, you may have the right to:
 - Withdraw consent (where applicable)  
 - Lodge a complaint with your local data protection authority  
 
-You can exercise these rights by contacting us at **takastudio92@gmail.com**.
+You can exercise these rights by contacting us at **takastudio92@gmail.com** (see Contact Us section below).
 
 ---
 
@@ -170,18 +171,18 @@ Similar rights may apply in your jurisdiction. Contact us to exercise your right
 
 ## 13. CHILDREN'S PRIVACY
 
-WeTrip is rated **4+** and intended for general audiences. In some regions, the app may be rated higher based on local laws.
+WeTrip is intended for general audiences.
 
 We do **not** knowingly collect any personal information from children under 13 years old (or under 16 in the EU).
 
-If you believe your child has provided us with personal data, please contact us at **takastudio92@gmail.com** so we can delete it promptly.
+If you believe your child has provided us with personal data, please contact us (see Contact Us section below) so we can delete it promptly.
 
 ---
 
 ## 14. DATA RETENTION
 
 WeTrip stores only minimal data required for purchases and app operation.  
-Purchase-related data (via Apple, Google, or RevenueCat) is retained only as long as needed to manage your active subscription (typically up to 7 years for legal and accounting purposes) or until you request deletion. Non-personal app usage data is retained for up to 1 year for performance improvements.
+Purchase-related data (via Apple, Google, or RevenueCat) is retained only as long as necessary to provide and manage your subscription, or as required by law (e.g., tax or accounting obligations). Non-personal app usage data is retained for up to 1 year for performance improvements.
 
 ---
 
