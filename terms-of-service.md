@@ -1,5 +1,7 @@
 # Terms of Service for WeTrip – Share & Split Costs
 
+[Privacy Policy](privacy-policy.md) | [Terms of Service](terms-of-service.md)
+
 **Last updated:** October 25, 2025  
 **Effective Date:** October 25, 2025  
 **Developer:** Phuong Nguyen Hoang  
@@ -119,7 +121,7 @@ Prices are displayed in the App and may change. You agree to pay all fees using 
 ### 8.4 Subscription Terms
 Subscriptions auto-renew at the end of each billing period unless canceled at least 24 hours before the current period ends. You will be charged for renewal within 24 hours prior to the end of the current period at the price shown in the App.
 
-Your subscription is available across all your devices through RevenueCat's cross-platform sync. You can access premium features on any device where you're signed in.
+Your subscription is managed through RevenueCat and may be available across devices where you're signed in with the same platform account (Apple ID or Google account).
 
 If you start a free trial, any unused portion will be forfeited when you purchase a subscription (if applicable). Free trials are available for new subscribers only and are subject to the terms of the trial offer as stated in the app.
 
@@ -173,11 +175,11 @@ OUR TOTAL LIABILITY SHALL NOT EXCEED THE AMOUNT YOU PAID US IN THE 12 MONTHS PRE
 
 ## 12. GOVERNING LAW AND DISPUTE RESOLUTION
 
-These Terms are governed by the laws of Vietnam, without regard to conflict of law principles. Any disputes shall be resolved exclusively in the courts of Da Nang, Vietnam.
+These Terms are governed by the laws of Vietnam, where the developer is located. Any disputes shall be resolved exclusively in the courts of Da Nang, Vietnam.
+
+**Note:** As a solo developer based in Vietnam, Vietnamese law applies. If you are located outside Vietnam, you may have additional rights under your local laws that cannot be waived by these Terms.
 
 You agree to waive any right to class actions or jury trials to the extent permitted by applicable law. For global users, disputes may be resolved through arbitration under Vietnamese law.
-
-If you are located outside Vietnam, you may have additional rights under your local laws that cannot be waived by these Terms.
 
 ---
 
@@ -185,7 +187,7 @@ If you are located outside Vietnam, you may have additional rights under your lo
 
 Your privacy is important to us. Our collection and use of personal information is governed by our Privacy Policy, which is incorporated into these Terms by reference. By using the App, you consent to the collection and use of information as described in the Privacy Policy.
 
-You can withdraw your consent at any time by contacting us at **takastudio92@gmail.com** or as detailed in the Privacy Policy. Withdrawal of consent may affect your ability to use certain features of the App.
+You can withdraw your consent at any time by contacting us (see Contact Us section below) or as detailed in the Privacy Policy. Withdrawal of consent may affect your ability to use certain features of the App.
 
 ---
 
@@ -221,17 +223,13 @@ For subscription-related issues, contact Apple or Google directly:
 - **Apple**: https://support.apple.com
 - **Google**: https://support.google.com
 
-For consent withdrawal: takastudio92@gmail.com
-
 ### 14.7 Compliance
 We comply with applicable laws and regulations in the jurisdictions where we operate. We will cooperate with lawful requests from authorities as required by applicable law.
 
 ### 14.8 International Use
 The App is intended for use worldwide. By using the App, you represent that you are not located in a country that is subject to export restrictions or sanctions. We comply with applicable laws in the jurisdictions where we operate, including data protection laws such as GDPR in the EU and CCPA in California.
 
-If you are located outside Vietnam, you may have additional rights under your local laws that cannot be waived by these Terms. Vietnamese users are subject to Vietnamese data protection and consumer laws, including PDPL (91/2025) and Data Law (60/2024).
-
-Even though we minimize data collection, payment processing through third-party services may involve personal data processing, and we ensure compliance with applicable data protection laws.
+If you are located outside Vietnam, you may have additional rights under your local laws that cannot be waived by these Terms. Vietnamese users are subject to Vietnamese data protection and consumer laws.
 
 ---
 
